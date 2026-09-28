@@ -1,6 +1,7 @@
 Flask
 Flask-SQLAlchemy
 Flask-Migrate
+SQLAlchemy<2.1
 Flask-JWT-Extended
 Flask-SocketIO
 Flask-CORS
