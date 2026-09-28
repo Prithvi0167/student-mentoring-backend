@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-JWT-Extended
+Flask-SocketIO
+Flask-CORS
+psycopg2-binary
+gunicorn==21.2.0
+eventlet==0.35.2
